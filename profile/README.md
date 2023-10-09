@@ -1,4 +1,4 @@
-# Discrete Logic Project Rule Set
+# Discrete Logic Project Guidelines
 
 ## 1. **Project Topic Selection:**
    - Students must select a topic related to an area in discrete logic. 
