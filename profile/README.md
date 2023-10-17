@@ -2,7 +2,7 @@
 
 ## 1. **Project Topic Selection:**
    - Students must select a topic related to an area in discrete logic. 
-   - Topic selection should be finalized and submitted to the designated instructor for approval by [specified date].
+   - Topic selection should be finalized and submitted to the designated instructor for approval by November 20th, 2023.
 
 ## 2. **GitHub Repository Structure:**
    - Each student/group will be assigned a specific repository within the class GitHub organization.
@@ -17,7 +17,7 @@
    - Include your name and a brief descriptor in the file name e.g., `Smith_DL_Presentation.mp4`.
 
 ## 4. **Submission:**
-   - All project files must be uploaded to the GitHub repository by [submission deadline].
+   - All project files must be uploaded to the GitHub repository by December 3rd, 2023.
    - Presentation video should be uploaded in the `presentation/` directory.
    - Source code, if any, should be uploaded in the `src/` directory.
    - Any accompanying documentation should be uploaded in the `docs/` directory.
